@@ -20,7 +20,7 @@ Hi there! I'm currently studying to become a Fullstack Web Developer,<br> diving
 <a href="https://www.linkedin.com/in/hectormunozampuero/" target="_blank" ><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gonza_ampuero/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.threads.net/@gonza_ampuero?xmt=AQGzOMpTmLbotBrMuBP_kzKFUn5eDq3KjQmB7Tf7-xBsLx8"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white"/></a>
 </p>
 
 
