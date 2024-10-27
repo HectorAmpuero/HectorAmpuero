@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Héctor Ampuero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=WEB+Development+Full-Stack"></a> </p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=WEB+Development+Full-Stack"></a> </p>
 
 # <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> About me
 
@@ -8,6 +8,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5YjhzbzBhMHNzYXQwZ3k0d254bjhwZnI0c3B3bzRqMnJwY3R2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif">
 </a>
 
+<br>
 Hi there! I'm currently studying to become a Fullstack Web Developer, <br> diving into the world of coding with a passion for building functional <br> and visually appealing web applications. I have a solid foundation in <br> HTML and CSS, and I'm eager to continue expanding my skills in both frontend and backend development. This GitHub profile is where I’ll share my projects, document my learning journey, and showcase my growth as a developer. Stay tuned for more!
 
 <br>
