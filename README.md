@@ -8,7 +8,6 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2M5YjhzbzBhMHNzYXQwZ3k0d254bjhwZnI0c3B3bzRqMnJwY3R2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif">
 </a>
 
-<br>
 Hi there! I'm currently studying to become a Fullstack Web Developer, <br> diving into the world of coding with a passion for building functional <br> and visually appealing web applications. I have a solid foundation in <br> HTML and CSS, and I'm eager to continue expanding my skills in both frontend and backend development. This GitHub profile is where I’ll share my projects, document my learning journey, and showcase my growth as a developer. Stay tuned for more!
 
 <br>
